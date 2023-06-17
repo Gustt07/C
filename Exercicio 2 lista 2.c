@@ -1,6 +1,6 @@
 // Gustavo Abreu 17/06
-/* 02 - Muitos países estão passando a utilizar o sistema métrico. Fazer um algoritmo para executar as seguintes conversões:
-• Ler uma temperatura dada em graus Fahrenheit e imprimir o equivalente em Celsius */
+/* 02 - Muitos paï¿½ses estï¿½o passando a utilizar o sistema mï¿½trico. Fazer um algoritmo para executar as seguintes conversï¿½es:
+ï¿½ Ler uma temperatura dada em graus Fahrenheit e imprimir o equivalente em Celsius */
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -26,5 +26,5 @@
 		 
 		chuva= polegada * milimetroch;
 		
-		printf("A temperatura em celsius vai ser de :%.1f° , e a quantidade de chuva em milimetros foi de :%.2f",valor,chuva);
+		printf("A temperatura em celsius vai ser de :%.1fï¿½ , e a quantidade de chuva em milimetros foi de :%.2f",valor,chuva);
 	}
